@@ -1,5 +1,41 @@
 .bg-dante{
     background-image: url(speedflow.jpg);
     background-size:cover;
-    padding: 500px 0px 100px 0
+    padding: 500px 100px 100px 0
+}
+
+.bg-camohoody{
+    background-image: url(camo\ hoody.jpg);
+    background-size:cover;
+    padding: 50px 0px 50px 0
+}
+
+.bg-speedflow{
+    background-image: url(x\ speedflow.jpg);
+    background-size:cover;
+    padding: 40px 0px 40px 0
+}
+
+.bg-supernovashoes{
+    background-image: url(supernova\ shoes.jpg);
+    background-size:cover;
+    padding: 50px 0px 50px 0
+}
+
+.bg-kaptirshoes{
+    background-image: url(kaptir\ 2.0\ shoes\ .jpg);
+    background-size:cover;
+    padding: 50px 0px 50px 0
+}
+
+.bg-OversprayGraphicTee{
+    background-image: url(Overspray\ Graphic\ Tee.jpg);
+    background-size:cover;
+    padding: 40px 0px 50px 0
+}
+
+.bg-NMD_R1Shoes{
+    background-image: url(NMD_R1\ Shoes.jpg);
+    background-size:cover;
+    padding: 50px 0px 50px 0
 }
