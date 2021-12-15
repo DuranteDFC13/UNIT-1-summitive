@@ -13,7 +13,7 @@
 .bg-speedflow{
     background-image: url(x\ speedflow.jpg);
     background-size:cover;
-    padding: 40px 0px 40px 0
+    padding: 20px 0px 50px 0
 }
 
 .bg-supernovashoes{
@@ -31,11 +31,29 @@
 .bg-OversprayGraphicTee{
     background-image: url(Overspray\ Graphic\ Tee.jpg);
     background-size:cover;
-    padding: 40px 0px 50px 0
+    padding: 20px 0px 50px 0
 }
 
 .bg-NMD_R1Shoes{
     background-image: url(NMD_R1\ Shoes.jpg);
     background-size:cover;
+    padding: 100px 0px 50px 0
+}
+
+.bg-terrybiglogohoodie{
+    background-image: url(terry\ big\ logo\ hoodie.jpg);
+    background-size:cover;
     padding: 50px 0px 50px 0
+}
+
+.bg-AdicolorVintageBaseballCap{
+    background-image: url(Adicolor\ Vintage\ Baseball\ Cap.jpg);
+    background-size:cover;
+    padding: 70px 0px 50px 0
+}
+
+.bg-UltraboostDNA{
+    background-image: url(Ultraboost\ 4.0\ DNA.jpg);
+    background-size:cover;
+    padding: 70px 0px 50px 0
 }
