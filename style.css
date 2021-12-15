@@ -13,7 +13,7 @@
 .bg-speedflow{
     background-image: url(x\ speedflow.jpg);
     background-size:cover;
-    padding: 20px 0px 50px 0
+    padding: 50px 0px 50px 0
 }
 
 .bg-supernovashoes{
@@ -37,7 +37,7 @@
 .bg-NMD_R1Shoes{
     background-image: url(NMD_R1\ Shoes.jpg);
     background-size:cover;
-    padding: 100px 0px 50px 0
+    padding: 50px 0px 50px 0
 }
 
 .bg-terrybiglogohoodie{
@@ -49,11 +49,29 @@
 .bg-AdicolorVintageBaseballCap{
     background-image: url(Adicolor\ Vintage\ Baseball\ Cap.jpg);
     background-size:cover;
-    padding: 70px 0px 50px 0
+    padding: 20px 0px 50px 0
 }
 
 .bg-UltraboostDNA{
     background-image: url(Ultraboost\ 4.0\ DNA.jpg);
     background-size:cover;
-    padding: 70px 0px 50px 0
+    padding: 50px 0px 50px 0
+}
+
+.bg-advantageshoes{
+    background-image: url(advantage\ shoes.jpg);
+    background-size:cover;
+    padding: 50px 0px 50px 0
+}
+
+.bg-4DFWDPulseShoes{
+    background-image: url(4DFWD\ Pulse\ Shoes.jpg);
+    background-size:cover;
+    padding: 20px 0px 50px 0
+}
+
+.bg-DODTEE{
+    background-image: url(DOD\ TEE.jpg);
+    background-size:cover;
+    padding: 50px 0px 50px 0
 }
