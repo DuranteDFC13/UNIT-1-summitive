@@ -66,7 +66,7 @@
 
 .bg-4DFWDPulseShoes{
     background-image: url(4DFWD\ Pulse\ Shoes.jpg);
-    background-size:cover;
+    background-size:contain;
     padding: 20px 0px 50px 0
 }
 
@@ -74,4 +74,11 @@
     background-image: url(DOD\ TEE.jpg);
     background-size:cover;
     padding: 50px 0px 50px 0
+}
+
+.bg-speedflowproduct{
+    background-image: url(speedflowproduct.jpg);
+    background-size:contain;
+    background-repeat: no-repeat;
+    padding: 500px 0px 50px 0
 }
